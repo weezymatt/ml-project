@@ -1,2 +1,2 @@
-# ml-project
-CoNLL 2003
+# Language-Independent Named Entity Recognition
+CoNLL 2003 shared task
